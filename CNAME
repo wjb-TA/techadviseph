@@ -1,1 +1,5 @@
-www.techadviseph.com
+$ dig www.techadviseph.com +nostats +nocomments +nocmd
+> ;www.techadviseph.com                     IN      A
+> www.techadviseph.com.              3592    IN      CNAME   wjb-TA.github.io.
+> YOUR-USERNAME.github.io.      43192   IN      CNAME   https://github.com/wjb-TA/techadviseph.
+> https://github.com/wjb-TA/techadviseph.         22      IN      A       192.0.2.1
