@@ -1,0 +1,2 @@
+$ dig example.com +nostats +nocomments +nocmd
+example.com.   3600  IN  A 185.199.108.153
