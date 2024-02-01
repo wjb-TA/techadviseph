@@ -1,0 +1,5 @@
+$ dig www.techadviseph.com +nostats +nocomments +nocmd
+> ;www.techadviseph.com                     IN      A
+> www.techadviseph.com              3592    IN      CNAME   wjb-TA.github.io.
+> wjb-TA.github.io.      43192   IN      CNAME   GITHUB-PAGES-SERVER.
+> GITHUB-PAGES-SERVER.         22      IN      A       192.0.2.1
